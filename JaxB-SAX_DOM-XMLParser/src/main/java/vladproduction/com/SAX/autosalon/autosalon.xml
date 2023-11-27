@@ -1,0 +1,31 @@
+<autosalon autosalon = "autosalon">
+    <carCenter city="Madrid" country="Spain"/>
+    <car category="SUV">
+        <brand>BMW</brand>
+        <model>X6</model>
+        <color>gray</color>
+        <year>2023</year>
+        <price>37000</price>
+    </car>
+    <car category="SPORT">
+        <brand>Audi</brand>
+        <model>RS</model>
+        <color>black</color>
+        <year>2023</year>
+        <price>39000</price>
+
+        <brand>Audi</brand>
+        <model>RS1</model>
+        <color>black</color>
+        <year>2023</year>
+        <price>49000</price>
+    </car>
+    <car category="SEDAN">
+        <brand>Volvo</brand>
+        <model>CX60</model>
+        <color>white</color>
+        <year>2023</year>
+        <price>32000</price>
+    </car>
+</autosalon>
+

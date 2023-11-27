@@ -1,0 +1,17 @@
+<students>
+  <student id="111" active="True">
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <location>London</location>
+  </student>
+  <student id="112" active="False">
+    <firstName>Jack</firstName>
+    <lastName>Davis</lastName>
+    <location>Liverpool</location>
+  </student>
+  <student id="113" active="True">
+    <firstName>Sandra</firstName>
+    <lastName>Frost</lastName>
+    <location>Manchester</location>
+  </student>
+</students>

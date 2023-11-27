@@ -1,0 +1,20 @@
+<autoSalon City="Milan" Country="ITA">
+    <auto Year="2023">
+        <name>bmw</name>
+        <model>x6</model>
+        <color>black</color>
+        <price currency="euro">52000</price>
+    </auto>
+    <auto Year="2023">
+        <name>audi</name>
+        <model>a6</model>
+        <color>black</color>
+        <price currency="euro">50000</price>
+    </auto>
+    <auto Year="2023">
+        <name>mercedes</name>
+        <model>xlc200</model>
+        <color>black</color>
+        <price currency="euro">53000</price>
+    </auto>
+</autoSalon>

@@ -1,0 +1,6 @@
+Simple API for XML (SAX)
+•Event-driven, serial-access API.
+•Fastest and least memory-intensive.
+•State independent processing.
+•Callback methods to parse elements.
+•Cannot "back up" to an earlier part of the document, or rearrange it.

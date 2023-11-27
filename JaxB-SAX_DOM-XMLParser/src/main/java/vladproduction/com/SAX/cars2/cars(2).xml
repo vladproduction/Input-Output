@@ -1,0 +1,20 @@
+<priceList Year="2023" City="Milan" Country="ITA">
+    <deliveryCentre department="Milan_Auto">
+        <auto number="01" delivered="20.02.2023">
+            <name>bmw</name>
+            <model>x6</model>
+            <equipment>full</equipment>
+            <color>black</color>
+            <price currency="euro" >52000</price>
+            <priceUAH currencyNative="uah" rate="42" rateDate="19.02.2023">2184000</priceUAH>
+        </auto>
+        <auto number="02" delivered="21.02.2023">
+            <name>bmw</name>
+            <model>x5</model>
+            <equipment>full</equipment>
+            <color>white</color>
+            <price currency="euro" >50000</price>
+            <priceUAH currencyNative="uah" rate="42" rateDate="19.02.2023">2180000</priceUAH>
+        </auto>
+    </deliveryCentre>
+</priceList>

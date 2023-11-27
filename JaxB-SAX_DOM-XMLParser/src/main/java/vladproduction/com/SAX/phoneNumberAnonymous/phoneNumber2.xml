@@ -1,0 +1,15 @@
+<contactList>
+    <phoneNumber>
+        <name>aaa</name>
+        <number>111</number>
+    </phoneNumber>
+    <phoneNumber>
+        <name>bbb</name>
+        <number>222</number>
+    </phoneNumber>
+    <phoneNumber>
+        <name>ccc</name>
+        <number>333</number>
+    </phoneNumber>
+</contactList>
+

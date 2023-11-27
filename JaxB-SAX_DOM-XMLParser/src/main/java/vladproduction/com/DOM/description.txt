@@ -1,0 +1,19 @@
+Document Object Model (DOM)
+•A tree structure
+•Most common types of nodes are:
+ -element nodes;
+ -text nodes.
+
+ Common DOM methods :
+ •Document.getDocumentElement()
+ •Node.getFirstChild()
+ •Node.getLastChild().
+ •Node.getNextSibling().
+ •Node.getPreviousSibling().
+ •Node.getAttribute(attrName).
+
+
+
+
+
+
