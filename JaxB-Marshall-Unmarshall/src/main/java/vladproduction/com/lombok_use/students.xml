@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+    <students>
+        <email>letos@gmail.st</email>
+        <firstName>Letos</firstName>
+        <id>1</id>
+    </students>
+    <students>
+        <email>viktor@gmail.st</email>
+        <firstName>Viktor</firstName>
+        <id>2</id>
+    </students>
+    <students>
+        <email>mella@gmail.st</email>
+        <firstName>Mella</firstName>
+        <id>3</id>
+    </students>
+</studentList>

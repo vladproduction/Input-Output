@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+    <studentList id="101">
+        <averagePoint>11.5</averagePoint>
+        <email>Student_101@email.com</email>
+        <name>Student_101</name>
+    </studentList>
+    <studentList id="102">
+        <averagePoint>10.9</averagePoint>
+        <email>Student_102@email.com</email>
+        <name>Student_102</name>
+    </studentList>
+    <studentList id="103">
+        <averagePoint>11.8</averagePoint>
+        <email>Student_103@email.com</email>
+        <name>Student_103</name>
+    </studentList>
+</studentList>

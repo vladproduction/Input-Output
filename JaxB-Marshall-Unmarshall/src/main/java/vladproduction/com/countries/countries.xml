@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<countryList>
+    <countries currency="€" name="Italy">
+        <capital>Roma</capital>
+        <continent>Europe</continent>
+        <population>58983122</population>
+    </countries>
+    <countries currency="$" name="USA">
+        <capital>Washington</capital>
+        <continent>North America</continent>
+        <population>333449281</population>
+    </countries>
+    <countries currency="¥" name="japan">
+        <capital>Tokyo</capital>
+        <continent>East Asia</continent>
+        <population>125309000</population>
+    </countries>
+    <countries currency="UAH" name="ukraine">
+        <capital>Kiev</capital>
+        <continent>East Europe</continent>
+        <population>40000000</population>
+    </countries>
+</countryList>
